@@ -1,1 +1,1 @@
-# iterator Uygulaması
+# Iterator Uygulaması
